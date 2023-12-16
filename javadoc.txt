@@ -1,0 +1,97 @@
+Class A has JavaDoc comment: 
+/**
+ * This is a class A.
+ *
+ * @ClassDocumentation "This is a class A"
+ */
+
+
+Method AA in class A has JavaDoc comment: 
+/**
+     * This is a method AA inside A.
+     *
+     * @MethodDocumentation "This is a method AA inside A"
+     */
+
+
+Method AB in class A has JavaDoc comment: 
+/**
+     * This is a method AB inside A.
+     *
+     * @MethodDocumentation "This is a method AB inside A"
+     */
+
+
+Method AD in class A has JavaDoc comment: 
+/**
+     * This is a method AD inside A.
+     *
+     * @MethodDocumentation "This is a method AD inside A"
+     */
+
+
+Class C has JavaDoc comment: 
+/**
+ * This is a class C.
+ *
+ * @ClassDocumentation "This is a class C"
+ */
+
+
+Method CA in class C has JavaDoc comment: 
+/**
+     * This is a method CA inside C.
+     *
+     * @MethodDocumentation "This is a method CA inside C"
+     */
+
+
+Method CB in class C has JavaDoc comment: 
+/**
+     * This is a method CB inside C.
+     *
+     * @MethodDocumentation "This is a method CB inside C"
+     */
+
+
+Method CC in class C has JavaDoc comment: 
+/**
+     * This is a method CC inside C.
+     *
+     * @MethodDocumentation "This is a method CC inside C"
+     */
+
+
+Method CD in class C has JavaDoc comment: 
+/**
+     * This is a method CD inside C.
+     *
+     * @MethodDocumentation "This is a method CD inside C"
+     */
+
+
+Class D has JavaDoc comment: 
+/**
+ * This is a class D.
+ * "This is a class D"
+ */
+
+
+Method DA in class D has JavaDoc comment: 
+/**
+     * This is a method DA inside D.
+     */
+
+
+Method DC in class D has JavaDoc comment: 
+/**
+     * This is a method DC inside D.
+     */
+
+
+Method DD in class D has JavaDoc comment: 
+/**
+     * This is a method DD inside D.
+     */
+
+
