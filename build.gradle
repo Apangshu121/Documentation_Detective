@@ -21,8 +21,12 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 }
 
+// JavaExec is a task type provided by Gradle for running Java applications.
 task findAnnotatedClassesAndMethods(type: JavaExec) {
+	// This sets the main class to be executed when this task is run. The main class should have a public static void main(String[] args) method.
+	// In this case, the main class is com.example.demo.AnnotationFinder.
 	main = 'com.example.demo.AnnotationFinder'
+	//  This line refers to the classpath that includes the compiled classes of your application's main source code and any dependencies.
 	classpath = sourceSets.main.runtimeClasspath
 }
 
